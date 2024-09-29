@@ -9,7 +9,7 @@ profile:
   image: spiro.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Allen Library South</p>
+    <p>Office: Allen Library</p>
     <p>University of Washington</p>
     <p>Seattle, WA 98195</p>
 
