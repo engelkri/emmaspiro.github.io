@@ -24,9 +24,6 @@ profiles:
     content: about_duskin.md
     image_circular: true # crops the image to make it circular
     more_info: >
-
-
-
 ---
 
 **Prospective Students:** I typically recruit 1-2 new PhD students to my research group each year. I have a general policy not to speak to candidates in advance of the admissions process. This allows me to treat candidates equitably. I will reach out to candidates who apply to UW's Information Science PhD program and make our shortlist so that we can discuss your research ideas and I can share more about our current research projects. 
