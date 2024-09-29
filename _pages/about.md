@@ -6,7 +6,7 @@ subtitle: Associate Professor, <a href='https://ischool.uw.edu/'>Information Sch
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: spiro.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Allen Library South</p>
