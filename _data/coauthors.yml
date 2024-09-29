@@ -15,7 +15,7 @@
     url: https://scholar.google.com/citations?user=YC0X7NIAAAAJ&hl=en
     
 "schafer":
-  - firstname: ["Joseph", "J.","I"]
+  - firstname: ["Joseph", "J.", "J", "Joseph S"]
     url: https://students.washington.edu/schaferj/
 
 "dash":
@@ -27,5 +27,5 @@
     url: https://faculty.washington.edu/kstarbi/
     
 "west":
-  - firstname: ["Jevin", "J.","J"]
+  - firstname: ["Jevin", "J.", "J", "Jevin D"]
     url: https://www.jevinwest.org/
