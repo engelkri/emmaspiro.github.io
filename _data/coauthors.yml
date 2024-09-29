@@ -1,3 +1,7 @@
+"beers":
+  - firstname: ["Anna", "A.","A", "Andrew"]
+    url: https://annabeers.github.io/professional/
+
 "demets":
   - firstname: ["Sydney", "S.", "S"]
     url: https://scholar.google.com/citations?user=25P_rcUAAAAJ&hl=en
@@ -5,3 +9,16 @@
 "duskin":
   - firstname: ["Kayla", "K.","K"]
     url: https://scholar.google.com/citations?user=6EsQFT8AAAAJ&hl=en
+
+"grasso":
+  - firstname: ["Izzi", "I.","I"]
+    url: 
+    
+"schafer":
+  - firstname: ["Joseph", "J.","I"]
+    url: https://students.washington.edu/schaferj/
+
+"dash":
+  - firstname: ["Saloni", "S.","S"]
+    url: https://salonidash.com/
+
