@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Dr. Emma S. Spiro's research involves the collection and analysis of large-scale social and behavioral data to answer key questions within the areas of sociology, information science, and social computing. Since early 2012, her work has focused on understanding information-related behaviors in the context of crisis events, including rumors, misinformation and collective sensemaking in online environments. Her work also explores the structure and dynamics of interpersonal and organizational networks in both online and offline environments. 
+Dr. Emma S. Spiro's research involves the collection and analysis of large-scale social and behavioral data to answer key questions within the areas of sociology, information science, and social computing. Since early 2012, her work has focused on **understanding information-related behaviors in the context of crisis events**, including rumors, misinformation and collective sensemaking in online environments. Her work also explores the structure and dynamics of interpersonal and organizational networks in both online and offline environments. 
 
 In 2019, Dr. Spiro co-founded the <a href='https://cip.uw.edu/'>Center for an Informed Public (CIP)</a> at UW; she currently serves at the faculty Director. The CIP is a collaborative, multi-disciplinary effort that brings together faculty, staff, students and community partners in service of a core mission aiming to resist strategic misinformation, promote a more informed society, and strengthen democratic discourse. 
 
