@@ -16,7 +16,7 @@ profiles:
     more_info: >
 
   - align: left
-    image: demets.jpg
+    image: avatar.jpg
     content: about_demets.md
     image_circular: true # crops the image to make it circular
     more_info: >
