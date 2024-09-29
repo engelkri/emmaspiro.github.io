@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Associate Professor, <a href='https://ischool.uw.edu/'>Information School</a>, University of Washington.
 
 profile:
   align: right
