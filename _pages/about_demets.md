@@ -1,5 +1,6 @@
 **Sydney DeMets**
 
-Doctoral Candidate.  
+Doctoral Candidate
+
 Information School, 
 University of Washington
