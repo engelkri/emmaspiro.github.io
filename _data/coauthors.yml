@@ -21,7 +21,11 @@
 "dash":
   - firstname: ["Saloni", "S.","S"]
     url: https://salonidash.com/
-
+    
+"register":
+  - firstname: ["YIm", "Y.","Y"]
+    url: https://yimregister.github.io/
+    
 "starbird":
   - firstname: ["Kate", "K.","K"]
     url: https://faculty.washington.edu/kstarbi/
