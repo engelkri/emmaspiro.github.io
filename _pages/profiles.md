@@ -4,7 +4,7 @@ permalink: /people/
 title: students
 description: I have been honored to work with many students, researchers, postdoctoral scholars, and collaborators over the years. 
 
-nav: true
+nav: false
 nav_order: 7
 
 profiles:
