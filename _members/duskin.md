@@ -14,7 +14,7 @@ teaser: >
 profile:
     name: Kayla Duskin
     align: right
-    image: duskin.jpg
+    image: duskin-profile.jpg
     role: Doctoral Candidate
     email: kduskin@uw.edu
     linkedin: https://www.linkedin.com/in/kayla-duskin/
