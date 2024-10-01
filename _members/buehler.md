@@ -3,36 +3,25 @@ layout: about
 inline: false
 group: Student Researchers
 group_rank: 4
-team_frontpage: true
 
-title: MSc Christoph Bühler
-description: Profile of MSc Christoph Bühler, Student Researcher at the Programming Group.
-lastname: Bühler
-publications: 'author^=*Bühler'
+title: Kayla Duskin
+description: Doctoral Candidate. Information School, University of Washington
+lastname: Duskin
+publications: 'author^=*Duskin'
 
 teaser: >
-    I joined the Programming Group as a Research Assistant in July 2024.
-    My Master Thesis of the university of applied science OST (former HSR) resolved around identity security and authentication in heterogenuous systems.
-    In September 2024, I will enroll at the HSG for a Masters Degree in Computer Science with the goal of becoming a PhD student in the future.
-    My research interests regard software engineering and programming languages in general, software and system security, and infrastructure as code.
+
 
 profile:
-    name: MSc Christoph Bühler
+    name: Kayla Duskin
     align: right
-    image: buehler-profile.jpg
-    role: Student Researcher
-    email: christophalexander.buehler@unisg.ch
-    github: buehler
-    linkedin: christoph-bühler-a3a262270
-    orcid: 0000-0003-2911-8304
+    image: duskin.jpg
+    role: Doctoral Candidate
+    email: kduskin@uw.edu
+    linkedin: https://www.linkedin.com/in/kayla-duskin/
     address: >
-        School of Computer Science<br />
-        Torstrasse 25<br />
-        9000 St. Gallen, Switzerland
+        Information School<br />
+        University of Washington
 ---
 
-I joined the Programming Group as a Research Assistant in July 2024.
-My Master Thesis of the university of applied science OST (former HSR) resolved around identity security and authentication in heterogenuous systems.
-In September 2024, I will enroll at the HSG for a Masters Degree in Computer Science with the goal of becoming a PhD student in the future.
-
-My research interests regard software engineering and programming languages in general, software and system security, and infrastructure as code.
+Coming soon. 
