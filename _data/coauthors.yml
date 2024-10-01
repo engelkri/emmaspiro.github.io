@@ -1,9 +1,9 @@
 "almquist":
-  - firstname: ["Zack", "Z.","Z", "ZW","Z.W.", "Zack W]
+  - firstname: ["Zack", "Z.", "Z", "ZW", "Z.W.", "Zack W"]
     url: https://zalmquist.github.io/
     
 "beers":
-  - firstname: ["Anna", "A.","A", "Andrew"]
+  - firstname: ["Anna", "A.", "A", "Andrew"]
     url: https://annabeers.github.io/professional/
 
 "demets":
