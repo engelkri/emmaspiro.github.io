@@ -2,7 +2,7 @@
 layout: page
 permalink: /team
 title: team
-description: Members and close collaborators of the group.
+description: I have been honored to work with many students, researchers, postdoctoral scholars, and collaborators over the years.
 nav: true
 nav_rank: 6
 ---
