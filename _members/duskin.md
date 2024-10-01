@@ -7,7 +7,6 @@ group_rank: 4
 title: Kayla Duskin
 description: Doctoral Candidate. Information School, University of Washington
 lastname: Duskin
-publications: 'author^=*Duskin'
 
 teaser: >
 
