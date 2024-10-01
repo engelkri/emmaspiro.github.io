@@ -4,7 +4,7 @@ permalink: /team
 title: team
 description: Members and close collaborators of the group.
 nav: true
-nav_rank: 2
+nav_rank: 6
 ---
 
 {% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %}
@@ -30,21 +30,6 @@ nav_rank: 2
                     {% if member.inline == false %}</a>{% endif %}
                     {% if member.profile.email %}
                         <a href="mailto:{{ member.profile.email }}" class="card-link"><i class="fas fa-envelope"></i></a>
-                    {% endif %}
-                    {% if member.profile.phone %}
-                        <a href="tel:{{ member.profile.phone }}" class="card-link"><i class="fas fa-phone"></i></a>
-                    {% endif %}
-                    {% if member.profile.linkedin %}
-                        <a href="https://linkedin.com/in/{{ member.profile.linkedin }}/" class="card-link" target="_blank"><i class="fab fa-linkedin"></i></a>
-                    {% endif %}
-                    {% if member.profile.orcid %}
-                        <a href="https://orcid.org/{{ member.profile.orcid }}" class="card-link" target="_blank"><i class="fab fa-orcid"></i></a>
-                    {% endif %}
-                    {% if member.profile.twitter %}
-                        <a href="https://twitter.com/{{ member.profile.twitter }}" class="card-link" target="_blank"><i class="fab fa-twitter"></i></a>
-                    {% endif %}
-                    {% if member.profile.github %}
-                        <a href="https://github.com/{{ member.profile.github }}" class="card-link" target="_blank"><i class="fab fa-github"></i></a>
                     {% endif %}
                     {% if member.profile.website %}
                         <a href="{{ member.profile.website }}" class="card-link" target="_blank"><i class="fas fa-globe"></i></a>
