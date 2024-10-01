@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Postdoctoral Researchers
-group_rank: 4
+group_rank: 2
 
 title: Yiwei Xu
 description: Postdoctral Fellow. Information School, University of Washington
