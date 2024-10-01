@@ -4,7 +4,7 @@ title: research
 permalink: /projects/
 description: This page documents some of the research projects that my team has worked on over the past few years. 
 nav: false
-nav_order: 3
+nav_order: 5
 display_categories: [work]
 horizontal: false
 ---
