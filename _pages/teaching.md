@@ -11,13 +11,13 @@ nav_order: 5
 
 This course offers a practical, hands-on introduction to the basic Data Science methods. It covers data cleaning and filtering, introductory statistics, statistical inference and prediction, linear and logistic regression, prediction, and a few simple but essential machine learning techniques. Pre-requisites include basic understanding of statistics and experience with data programming.
 
-**IMT 573 Data Science I - Theoretical Foundations**
-
-The course provides an introduction to the foundational concepts and methods of data science, focusing on several critical skills, including data capture and transformation, probability and statistics, and data exploration and analysis. I am jointly responsible for the development of this course; I developed all current materials---slides, problem sets, and labs.
-
 **IMT 571 Social Network Analysis**
 
 This course offers students practical, hands-on instruction in common methods and analytical tools used for social network analysis. Students practice applying and interpreting network analysis methods to answer important questions within the social network domain. I am solely responsible for the development of this course, including slides, problem sets, labs, and exams.
+
+**IMT 573 Data Science I - Theoretical Foundations**
+
+The course provides an introduction to the foundational concepts and methods of data science, focusing on several critical skills, including data capture and transformation, probability and statistics, and data exploration and analysis. I am jointly responsible for the development of this course; I developed all current materials---slides, problem sets, and labs.
 
 **IMT 598 Problematic Information**
 
