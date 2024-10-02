@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: I have taught a variety of courses across the iSchool's academic programs. Here is s sampling of them.
+description: I have taught a variety of courses across the iSchool's academic programs. Here is a sampling of them.
 nav: true
 nav_order: 5
 ---
