@@ -7,9 +7,9 @@ nav: true
 nav_order: 4
 ---
 
-West, J. (PI), K. Davis (Co-PI), Emma S. Spiro (Co-PI), S. Woolley (Co-PI), and A. Arif (Co-PI). (10/2021 - 09/2022). "Co-Designing for Trust: Reimagining Online Information Literacies with Underserved Communities." National Science Foundation.  [Convergence Accelerator Track F Phase I #2137519]: $750,000.00
+West, J. (PI), K. Davis (Co-PI), Emma S. Spiro (Co-PI), S. Woolley (Co-PI), and A. Arif (Co-PI). (10/2021 - 09/2022). <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2137519">"Co-Designing for Trust: Reimagining Online Information Literacies with Underserved Communities."</a> National Science Foundation.  [Convergence Accelerator Track F Phase I #2137519]: $750,000.00
 
-Starbird, K. (PI), Emma S. Spiro (Co-PI), West, J. (Co-PI), and Handcock, J. (Co-PI). (10/2021-09/2026) "Collaborative Research: Building Rapid-Response Frameworks to Support Multi-Stakeholder Collaborations for Mitigating Online Disinformation." National Science Foundation. [IIS-SaTC #2120496]: $2,249,918.00
+Starbird, K. (PI), Emma S. Spiro (Co-PI), West, J. (Co-PI), and Handcock, J. (Co-PI). (10/2021-09/2026) <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2120496&HistoricalAwards=false">"Building Rapid-Response Frameworks to Support Multi-Stakeholder Collaborations for Mitigating Online Disinformation."</a> National Science Foundation. [IIS-SaTC #2120496]: $2,249,918.00
 
 Weber, N. (PI), C. Palmer (Co-PI), Emma S. Spiro (Co-PI), C. Coward (Co-PI). (01/2021-05/2021) "Co-Designing Protocols for Data Creation, Analysis, and Use among Local Care Networks in Seattle and Boston to Enhance Disaster Resilience." National Science Foundation [SCC-CIVIC-PG Track B]: $49,997.00
 
