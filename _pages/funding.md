@@ -35,4 +35,4 @@ Microsoft. (2021) $105,000.00
 
 Hewlett Foundation. (2019-2022) $600,000.00
 
-Knight Foundation. (09/2019-08/2025) $5,000,000.00
+Knight Foundation. (2019-2025) $5,000,000.00
