@@ -21,7 +21,7 @@ Spiro, Emma S. (PI). (07/2015-07/2018) "Mass Convergence of Attention During Cri
 
 Starbird, K. (PI), Emma S. Spiro (Co-PI), and R. Mason (Co-PI). (09/2014-09/2016) "Detecting Misinformation Flows in Social Media Spaces During Crisis Events." National Science Foundation [#IIS-1420255]: $515,046.00 
 
-The following organizations have supported the infrastructure, activities and programs at <a href="https://www.cip.uw.edu/" >The Center for an Informed Public</a>:  
+The following organizations have supported the infrastructure, activities, and programs at <a href="https://www.cip.uw.edu/" >The Center for an Informed Public</a>:  
 
 Hewlett Foundation. (2023-2025) $1,000,000.00
 
