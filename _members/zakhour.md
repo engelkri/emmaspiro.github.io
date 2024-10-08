@@ -22,7 +22,7 @@ teaser: >
 profile:
     name: MSc George Zakhour
     align: right
-    image: zakhour-profile.jpg
+    image: 
     role: Doctoral Researcher
     website: https://grgz.me
     email: george.zakhour@unisg.ch
