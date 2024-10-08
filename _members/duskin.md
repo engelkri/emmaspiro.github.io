@@ -18,6 +18,7 @@ profile:
     role: Doctoral Candidate
     email: kduskin@uw.edu
     linkedin: https://www.linkedin.com/in/kayla-duskin/
+    website: https://ischool.uw.edu/people/phd/profile/kduskin
     address: >
         Information School<br />
         University of Washington
