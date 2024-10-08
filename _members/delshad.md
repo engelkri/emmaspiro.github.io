@@ -18,7 +18,7 @@ teaser: >
 profile:
     name: MSc Benyamin Delshad Mamaghani
     align: right
-    image: delshad-profile.jpg
+    image: 
     role: Doctoral Researcher
     twitter: BenyaminDM
     github: BenyaminDelshad
