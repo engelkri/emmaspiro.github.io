@@ -18,6 +18,8 @@ profile:
     role: Doctoral Student
     email: salonidash77@gmail.com
     linkedin: https://www.linkedin.com/in/saloni-dash-363431104/
+    scholar_userid: 5-Fyc8MAAAAJ # your Google Scholar ID
+    github: https://github.com/SaloniDash7
     address: >
         Information School<br />
         University of Washington
