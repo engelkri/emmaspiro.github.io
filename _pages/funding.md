@@ -13,7 +13,7 @@ Starbird, K. (PI), Emma S. Spiro (Co-PI), West, J. (Co-PI), and Handcock, J. (Co
 
 Weber, N. (PI), C. Palmer (Co-PI), Emma S. Spiro (Co-PI), C. Coward (Co-PI). (01/2021-05/2021) <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2043026&HistoricalAwards=false">"Co-Designing Protocols for Data Creation, Analysis, and Use among Local Care Networks in Seattle and Boston to Enhance Disaster Resilience."</a> National Science Foundation [SCC-CIVIC-PG Track B]: $49,997.00
 
-Spiro, Emma S. (PI), Starbird, K. (Co-PI) and West, J. (Co-PI). (04/2020-03/2021) "RAPID: How Scientific Data, Knowledge, and Expertise Mobilize in Online Media during the COVID-19 Crisis." National Science Foundation [#IIS-SaTC]: $197,538.00
+Spiro, Emma S. (PI), Starbird, K. (Co-PI) and West, J. (Co-PI). (04/2020-03/2021) <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2027792">"RAPID: How Scientific Data, Knowledge, and Expertise Mobilize in Online Media during the COVID-19 Crisis."</a> National Science Foundation [#IIS-SaTC]: $197,538.00
 
 Spiro, Emma S. (PI), and K. Starbird, (Co-PI). (09/2017-08/2019) <a href= "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2027792">"Tracking and Unpacking Rumor Permutations to Understand Collective Sensemaking Online.''</a> National Science Foundation [#IIS-1715078]: $494,188.00
 
