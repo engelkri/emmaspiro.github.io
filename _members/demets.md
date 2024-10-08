@@ -1,21 +1,21 @@
 ---
 layout: about
 inline: false
-group: Doctoral Researchers
+group: Doctoral Students
 group_rank: 1
 
 title: Sydney DeMets
-description: Doctoral Candidate. Information School, University of Washington.
+description: 
 lastname: DeMets
 publications: 'author^=*DeMets'
 
 teaser: >
 
 profile:
-    name: 
-    position: 
+    name: Sydney DeMets
+    position: Doctoral Candidate. Information School, University of Washington.
     align: right
-    image: 
+    image: avatar.png
     email: 
     twitter: 
     linkedin: 
