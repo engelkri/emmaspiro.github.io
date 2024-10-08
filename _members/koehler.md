@@ -19,7 +19,7 @@ teaser: >
 profile:
     name: MSc Mirko Köhler
     align: right
-    image: koehler-profile.jpg
+    image: 
     role: Doctoral Researcher
     orcid: 0000-0001-5497-9785
     address: >
