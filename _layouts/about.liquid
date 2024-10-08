@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="post">
-  <header class="post-header">
+  <h1 class="post-header">
      {% if site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
@@ -10,7 +10,7 @@ layout: default
         {{ site.title }}
       {% endif %}
     <p class="desc">{{ page.subtitle }}</p>
-  </header>
+  </h1>
 
   <article>
     {% if page.profile %}
