@@ -17,7 +17,7 @@ teaser: >
 profile:
     name: MSc Jahrim Gabriele Cesario
     align: right
-    image: cesario-profile.jpg
+    image: 
     role: Doctoral Researcher
     website: https://jahrim.github.io
     github: jahrim
