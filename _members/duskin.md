@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Doctoral Researchers
+group: Doctoral Students
 group_rank: 1
 
 title: Kayla Duskin
