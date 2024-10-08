@@ -19,7 +19,7 @@ teaser: >
 profile:
     name: MSc Christoph Bühler
     align: right
-    image: buehler-profile.jpg
+    image: 
     role: Student Researcher
     email: christophalexander.buehler@unisg.ch
     github: buehler
