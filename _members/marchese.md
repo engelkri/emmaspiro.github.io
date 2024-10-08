@@ -17,7 +17,7 @@ teaser: >
 profile:
     name: BA Alex Paolo Marchese
     align: right
-    image: marchese-profile.jpg
+    image: 
     role: Student Researcher
     linkedin: alex-marchese
     address: >
