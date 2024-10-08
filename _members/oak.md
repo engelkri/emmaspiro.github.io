@@ -18,7 +18,7 @@ teaser: >
 profile:
     name: MSc Aditya Oak
     align: right
-    image: oak-profile.jpg
+    image: 
     role: Doctoral Researcher
     orcid: 0000-0002-9964-5794
     address: >
