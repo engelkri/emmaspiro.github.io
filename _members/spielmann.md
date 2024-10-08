@@ -20,7 +20,7 @@ teaser: >
 profile:
     name: MSc David Spielmann
     align: right
-    image: spielmann-profile.jpg
+    image: 
     role: Doctoral Researcher
     email: david.spielmann@unisg.ch
     twitter: DaSpielmann
