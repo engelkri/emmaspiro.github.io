@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: profiles
 inline: false
 group: Doctoral Students
 group_rank: 1
@@ -16,8 +16,8 @@ profile:
     align: right
     image: dash-profile.jpg
     role: Doctoral Student
-    email: 
-    linkedin: 
+    email: salonidash77@gmail.com
+    linkedin: https://www.linkedin.com/in/saloni-dash-363431104/
     address: >
         Information School<br />
         University of Washington
