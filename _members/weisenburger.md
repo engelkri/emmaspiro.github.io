@@ -20,7 +20,7 @@ teaser: >
 profile:
     name: Dr. Pascal Weisenburger
     align: right
-    image: weisenburger-profile.jpg
+    image: 
     role: Postdoc
     email: pascal.weisenburger@unisg.ch
     github: pweisenburger
