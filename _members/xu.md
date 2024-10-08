@@ -20,10 +20,10 @@ profile:
     align: right
     image: 
     role: Postdoctoral Scholar
-    email: 
-    github: 
-    orcid: 
+    email: yiweixu@uw.edu
+    website: https://www.yiweixu.net 
     address: >
+      Allen Library South, Information School, University of Washington, Seattle WA 98195
    
 ---
 
