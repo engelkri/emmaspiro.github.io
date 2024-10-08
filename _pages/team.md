@@ -12,7 +12,7 @@ nav_order: 6
 In the meantime, you are in the right place to review recent publications and projects to help inform your research statement and other application materials. If you are interested in information integrity and manipulation, please also browse our work at the <a href="https://www.cip.uw.edu/">Center for an Informed Public</a>, which I co-founded in 2019. I currently serve as the CIP Director. 
 
 
-{% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %}
+{% assign groups = site.members | map: "group" | uniq %}
 {% for group in groups %}
 ## {{ group }}
 
