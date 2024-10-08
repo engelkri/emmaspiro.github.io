@@ -20,7 +20,7 @@ teaser: >
 profile:
     name: BA Quentin Gigon
     align: right
-    image: gigon-profile.jpg
+    image: 
     role: Student Researcher
     linkedin: quentin-gigon-郭昆廷-6a91a694
     address: >
