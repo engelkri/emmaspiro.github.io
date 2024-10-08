@@ -17,7 +17,7 @@ teaser: >
 profile:
     name: Dr. des. Daniel Sokolowski
     align: right
-    image: sokolowski-profile.jpg
+    image: 
     role: Doctoral Researcher
     website: https://dsoko.de
     email: daniel.sokolowski@unisg.ch
