@@ -5,7 +5,7 @@ group: Doctoral Students
 group_rank: 1
 
 title: Kayla Duskin
-description: Doctoral Candidate. Information School, University of Washington
+description: 
 lastname: Duskin
 
 teaser: >
