@@ -14,7 +14,7 @@ teaser: >
 profile:
     name: Kristen Engel
     align: right
-    image: 
+    image: avatar.png
     role: Doctoral Candidate
     email: 
     linkedin: 
