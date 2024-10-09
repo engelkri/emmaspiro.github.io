@@ -3,7 +3,10 @@ layout: default
 ---
 
 {% if page.profile %}
-{% if page.profile.image %} {% if page.profile.href %}{% endif %} {{ page.profile.name }} {% if page.profile.href %}{% endif %} {% endif %} {% if page.profile.address %}
+{% if page.profile.image %} {% if page.profile.href %}{% endif %} 
+{{ page.profile.name }} {% if page.profile.href %}{% endif %} {% endif %} 
+
+{% if page.profile.address %}
 {% if page.profile.href %}{% endif %} {{ page.profile.name }} {% if page.profile.href %}{% endif %} {% if page.profile.position %}
 {{ page.profile.position }}{% endif %} {% if page.profile.email %}
 {{ page.profile.email }}{% endif %} {% if page.profile.phone %}
