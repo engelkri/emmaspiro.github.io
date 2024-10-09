@@ -27,15 +27,9 @@ layout: default
 {% include social.html %}
 {{ site.contact_note }}
 {% endif %}
-{% if page.news %}
-News
-{% include news.html %} {% endif %} {% if page.selected_papers %}
-Recent Publications
-{% include selected_papers.html %} {% endif %} {% if page.projects %}
-Projects
-{% include about_tiles.html items=site.projects %} {% endif %} {% if page.supports %}
-Support
-{% include about_tiles.html items=site.supports %} {% endif %} {% if page.publications %}
+{% if page.supports %}
+
+{% if page.publications %}
 Publications
 {% bibliography -f papers -q @*[{{page.publications}}]* %}
 {% endif %}
