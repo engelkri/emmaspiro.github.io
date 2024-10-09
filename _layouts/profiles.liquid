@@ -2,21 +2,21 @@
 layout: default
 ---
 
+
+{% comment %}
+{{ page.description }}
+{% endcomment %}
 {% if page.profile %}
-{% if page.profile.image %} {% if page.profile.href %}{% endif %} 
-{{ page.profile.name }} {% if page.profile.href %}{% endif %} {% endif %} 
-
-{% if page.profile.address %}
-{% if page.profile.href %}{% endif %} 
-{{ page.profile.name }} {% if page.profile.href %}{% endif %} 
-{% if page.profile.position %}{{ page.profile.position }}{% endif %} 
-{% if page.profile.email %}{{ page.profile.email }}{% endif %} 
-{% if page.profile.phone %}{{ page.profile.phone }}{% endif %}
-{% if page.profile.linkedin %}{{ page.profile.linkedin }}{% endif %}
-{% if page.profile.orcid %}{{ page.profile.orcid }}{% endif %} 
-{% if page.profile.twitter %}{{ page.profile.twitter }}{% endif %} 
-{% if page.profile.github %}{{ page.profile.github }}{% endif %} 
-{% if page.profile.website %}{{ page.profile.website }}{% endif %}
-
-{{ page.profile.address }}{% endif %}
-
+{% if page.profile.image %} {% if page.profile.href %}{% endif %} ￼ {% if page.profile.href %}{% endif %} {% endif %} {% if page.profile.address %}
+{% if page.profile.href %}{% endif %} {{ page.profile.name }} {% if page.profile.href %}{% endif %} {% if page.profile.position %} {{ page.profile.position }}{% endif %} {% if page.profile.email %} {{ page.profile.email }}{% endif %} {% if page.profile.phone %} {{ page.profile.phone }}{% endif %} {% if page.profile.linkedin %} {{ page.profile.linkedin }}{% endif %} {% if page.profile.orcid %} {{ page.profile.orcid }}{% endif %} {% if page.profile.twitter %} {{ page.profile.twitter }}{% endif %} {% if page.profile.github %} {{ page.profile.github }}{% endif %} {% if page.profile.website %} {{ page.profile.website }}{% endif %}
+{{ page.profile.address }}
+{% endif %}
+{% endif %}
+{{ content }} {% if page.social %}
+{% include social.html %}
+{{ site.contact_note }}
+{% endif %}
+{% if page.publications %}
+Publications
+{% bibliography -f papers -q @*[{{page.publications}}]* %}
+{% endif %}
