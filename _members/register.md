@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: profiles
 inline: false
 group: Alumni
 group_rank: 4
@@ -15,7 +15,7 @@ profile:
     name: Yim Register
     position: 
     align: right
-    image: avatar.png
+    image: register-profile.webp
     email: 
     twitter: 
     linkedin: 
