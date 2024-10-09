@@ -1,10 +1,10 @@
 ---
 layout: profiles
-inline: false
-group: Doctoral Students
+inline: true
+group: doctoral students
 group_rank: 1
 
-title: Izzi Grasso
+title: 
 description: 
 lastname: Grasso
 publications: 'author^=*Grasso'
