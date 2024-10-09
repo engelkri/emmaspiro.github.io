@@ -1,6 +1,6 @@
 ---
 layout: profiles
-inline: false
+inline: true
 group: research scientists
 group_rank: 3
 
