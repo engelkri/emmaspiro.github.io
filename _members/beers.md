@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: profiles
 inline: false
 group: Alumni
 group_rank: 4
