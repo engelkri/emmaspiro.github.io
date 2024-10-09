@@ -22,7 +22,7 @@ profile:
     github: SaloniDash7
     address: >
         Information School<br />
-        University of Washington
+        University of Washington, Seattle WA 98195
 ---
 
 My research interests primarily lie in Misinformation & AI. I am interested in understanding and modeling the threats of geenrative models for disinformation operations. I am also interested in leveraging geenrative models for detecting and explaining misinformation and manipulation tactics.
