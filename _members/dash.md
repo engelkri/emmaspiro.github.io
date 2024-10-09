@@ -13,9 +13,9 @@ teaser: >
 
 profile:
     name: Saloni Dash
+    position: Doctoral Student. Information School, University of Washington.
     align: right
     image: dash-profile.jpg
-    role: Doctoral Student
     email: salonidash77@gmail.com
     linkedin: saloni-dash-363431104
     scholar_userid: 5-Fyc8MAAAAJ # your Google Scholar ID
