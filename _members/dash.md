@@ -8,7 +8,8 @@ title: Saloni Dash
 description: Doctoral Student. Information School, University of Washington
 lastname: Dash
 
-teaser: > My research interests primarily lie in Misinformation and AI. I am interested in understanding and modeling the threats of geenrative models for disinformation operations. I am also interested in leveraging geenrative models for detecting and explaining misinformation and manipulation tactics.
+teaser: > 
+    My research interests primarily lie in Misinformation and AI. I am interested in understanding and modeling the       threats of geenrative models for disinformation operations. I am also interested in leveraging geenrative models for detecting and explaining misinformation and manipulation tactics.
 
 profile:
     name: Saloni Dash
