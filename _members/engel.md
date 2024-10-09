@@ -15,7 +15,7 @@ profile:
     name: Kristen Engel
     align: right
     image: avatar.png
-    role: Doctoral Candidate
+    position: Doctoral Candidate, Information School.
     email: 
     linkedin: 
     address: >
