@@ -1,6 +1,6 @@
 ---
 layout: profiles
-inline: false
+inline: true
 group: Doctoral Students
 group_rank: 1
 
