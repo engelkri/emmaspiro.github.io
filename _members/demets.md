@@ -4,7 +4,7 @@ inline: false
 group: Doctoral Students
 group_rank: 1
 
-title: Sydney DeMets
+title: 
 description: 
 lastname: DeMets
 publications: 'author^=*DeMets'
