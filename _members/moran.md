@@ -15,7 +15,7 @@ profile:
     name: Rachel Moran-Prestridge
     position: Senior Research Scientist. Center for an Informed Public, University of Washington.
     align: right
-    image: avatar.png
+    image: moran-profile.jpg
     email: 
     twitter: 
     linkedin: 
