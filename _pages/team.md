@@ -16,6 +16,7 @@ In the meantime, you are in the right place to review recent publications and pr
 {% for group in groups %}
 
 &nbsp;
+{: style="text-align: right" }
 ### {{ group }}
 &nbsp;
 
