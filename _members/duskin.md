@@ -7,6 +7,7 @@ group_rank: 1
 title: 
 description: 
 lastname: Duskin
+publications: 'author^=*Duskin'
 
 teaser: >
 
