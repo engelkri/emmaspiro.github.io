@@ -19,7 +19,7 @@ profile:
     name: Dr. Yiwei Xu
     align: right
     image: xu-profile.jpg
-    position: Postdoctoral Scholar, Center for an Informed Public
+    position: Postdoctoral Scholar, Center for an Informed Public.
     email: yiweixu@uw.edu
     website: https://www.yiweixu.net 
     address: >
