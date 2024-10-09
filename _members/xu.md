@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: profiles
 inline: false
 group: Postdoctoral Researchers
 group_rank: 2
@@ -18,7 +18,7 @@ teaser: >
 profile:
     name: Dr. Yiwei Xu
     align: right
-    image: 
+    image: xu-profile.jpg
     role: Postdoctoral Scholar
     email: yiweixu@uw.edu
     website: https://www.yiweixu.net 
