@@ -1,11 +1,11 @@
 ---
 layout: profiles
 inline: true
-group: Doctoral Students
+group: doctoral students
 group_rank: 1
 
-title: Saloni Dash
-description: Doctoral Student. Information School, University of Washington
+title: 
+description: 
 lastname: Dash
 
 teaser: > 
@@ -21,8 +21,7 @@ profile:
     scholar_userid: 5-Fyc8MAAAAJ # your Google Scholar ID
     github: SaloniDash7
     address: >
-        Information School<br />
-        University of Washington, Seattle WA 98195
+        Information School, University of Washington, Seattle WA 98195
 ---
 
 My research interests primarily lie in Misinformation & AI. I am interested in understanding and modeling the threats of geenrative models for disinformation operations. I am also interested in leveraging geenrative models for detecting and explaining misinformation and manipulation tactics.
