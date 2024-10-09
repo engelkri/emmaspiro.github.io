@@ -1,11 +1,11 @@
 ---
 layout: profiles
-inline: false
-group: Doctoral Students
+inline: true
+group: doctoral students
 group_rank: 1
 
-title: Kristen Engel
-description: Doctoral Candidate. Information School, University of Washington
+title: 
+description: 
 lastname: Engel
 
 teaser: >
@@ -20,5 +20,5 @@ profile:
     linkedin: 
     address: >
         Information School<br />
-        University of Washington
+        University of Washington, Seattle WA 98195
 ---
