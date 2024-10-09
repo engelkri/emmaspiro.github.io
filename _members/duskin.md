@@ -22,7 +22,7 @@ profile:
     website: https://ischool.uw.edu/people/phd/profile/kduskin
     address: >
         Information School<br />
-        University of Washington
+        University of Washington, Seattle WA 98195
 ---
 
 Coming soon. 
