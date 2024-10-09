@@ -1,7 +1,7 @@
 ---
 layout: profiles
 inline: false
-group: Research Scientists
+group: research scientists
 group_rank: 3
 
 title: Rachel Moran-Prestridge 
@@ -16,10 +16,9 @@ profile:
     position: Senior Research Scientist. Center for an Informed Public, University of Washington.
     align: right
     image: moran-profile.jpg
-    email: 
-    twitter: 
-    linkedin: 
-    orcid: 
+    email: remoran@uw.edu
+    website: https://ischool.uw.edu/people/faculty/profile/remoran 
+    scholar_id: iIpDqNgAAAAJ 
     address: >
 
 ---
