@@ -1,12 +1,12 @@
 ---
 layout: profiles
-inline: false
-group: Postdoctoral Researchers
+inline: true
+group: postdoctoral researchers
 group_rank: 2
 team_frontpage: true
 
 title: Dr. Yiwei Xu
-description: Postdoctoral Scholar. Center for an Informed Public, University of Washignton
+description: Postdoctoral Scholar. Center for an Informed Public, University of Washington
 lastname: Xu
 publications: 'author^=*Xu'
 
@@ -23,7 +23,7 @@ profile:
     email: yiweixu@uw.edu
     website: https://www.yiweixu.net 
     address: >
-      Allen Library South, Information School, University of Washington, Seattle WA 98195
+      Information School, University of Washington, Seattle WA 98195
    
 ---
 
