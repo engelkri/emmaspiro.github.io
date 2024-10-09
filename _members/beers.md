@@ -13,7 +13,7 @@ teaser: >
 
 profile:
     name: Anna Beers
-    position: Postdoctoral Scholar. Center for Information, Technology, and Public Life, University of North Carolina.
+    position: Postdoctoral Scholar. Center for Information, Technology, and Public Life.
     align: right
     image: beers-profile.jpg
     email: 
@@ -21,7 +21,8 @@ profile:
     linkedin: 
     github: AnnaBeers 
     scholar_id: kPQgDcsAAAAJ
-    address: >
+    address: >   
+        Center for Information, Technology, and Public Life, University of North Carolina
 
 ---
 
