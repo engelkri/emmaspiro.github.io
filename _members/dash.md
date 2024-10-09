@@ -13,7 +13,7 @@ teaser: >
 
 profile:
     name: Saloni Dash
-    position: Doctoral Student. Information School, University of Washington.
+    position: Doctoral Student. Information School.
     align: right
     image: dash-profile.jpg
     email: salonidash77@gmail.com
