@@ -4,7 +4,7 @@ inline: false
 group: research scientists
 group_rank: 3
 
-title: Rachel Moran-Prestridge 
+title: 
 description: 
 lastname: Moran
 publications: 'author^=*Moran'
