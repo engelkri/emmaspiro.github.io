@@ -21,15 +21,3 @@ layout: default
 
 {{ page.profile.address }}
 
-{% endif %}
-{% endif %}
-{{ content }} {% if page.social %}
-{% include social.html %}
-{{ site.contact_note }}
-{% endif %}
-{% if page.supports %}
-
-{% if page.publications %}
-Publications
-{% bibliography -f papers -q @*[{{page.publications}}]* %}
-{% endif %}
