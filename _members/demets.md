@@ -16,10 +16,9 @@ profile:
     position: Doctoral Candidate. Information School, University of Washington.
     align: right
     image: avatar.png
-    email: 
-    twitter: 
-    linkedin: 
-    orcid: 
+    email: sdemets@uw.edu
+    linkedin: sydney-demets-319759276
+    scholar_userid: 25P_rcUAAAAJ 
     address: >
         Information School<br />
         University of Washington, Seattle WA 98195
