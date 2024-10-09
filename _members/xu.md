@@ -5,8 +5,8 @@ group: postdoctoral researchers
 group_rank: 2
 team_frontpage: true
 
-title: Dr. Yiwei Xu
-description: Postdoctoral Scholar. Center for an Informed Public, University of Washington
+title:
+description: 
 lastname: Xu
 publications: 'author^=*Xu'
 
@@ -19,7 +19,7 @@ profile:
     name: Dr. Yiwei Xu
     align: right
     image: xu-profile.jpg
-    role: Postdoctoral Scholar
+    position: Postdoctoral Scholar, Center for an Informed Public
     email: yiweixu@uw.edu
     website: https://www.yiweixu.net 
     address: >
