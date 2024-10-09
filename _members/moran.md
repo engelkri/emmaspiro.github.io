@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: profiles
 inline: false
 group: Research Scientists
 group_rank: 3
