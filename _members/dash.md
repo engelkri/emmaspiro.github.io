@@ -10,6 +10,7 @@ lastname: Dash
 
 teaser: >
 
+My research interests primarily lie in Misinformation & AI. I am interested in understanding and modeling the threats of geenrative models for disinformation operations. I am also interested in leveraging geenrative models for detecting and explaining misinformation and manipulation tactics.
 
 profile:
     name: Saloni Dash
@@ -17,9 +18,9 @@ profile:
     image: dash-profile.jpg
     role: Doctoral Student
     email: salonidash77@gmail.com
-    linkedin: https://www.linkedin.com/in/saloni-dash-363431104/
+    linkedin: saloni-dash-363431104
     scholar_userid: 5-Fyc8MAAAAJ # your Google Scholar ID
-    github: https://github.com/SaloniDash7
+    github: SaloniDash7
     address: >
         Information School<br />
         University of Washington
