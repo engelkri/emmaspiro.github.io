@@ -10,6 +10,8 @@ lastname: Register
 publications: 'author^=*Register'
 
 teaser: >
+    I received my PhD as an NSF GRFP Fellow from the the University of Washington Information School. My dissertation is entitled: The Future of AI Can Be Kind: Strategies for Embedded Ethics in AI Education. I study ways that AI algorithms can cause harm, and the best practices for identifying and remedying such algorithmic harms. My main focus is AI education – using trauma-informed computing to teach AI in empowering, inclusive, and supportive ways. I study the full life cycle of ML algorithms – from data collection to model selection to model evaluation and deployment; all with the goals of societal benefit and user safety and empowerment. From basic regression to large language models (LLMs), my goals are to quantify bias in the data and output, as well as identify potential harms that may come from the technology we create.
+    When we create technology with compassion, we create a better world for everyone. I’ve worked with RStudio, Code.org, MD4SG, and the Center for an Informed Public. I also do visiting talks and workshops, such as The Future of AI Can Be Kind or Mental Health, Social Media, and Empowerment. I often create educational resources and guest lecture on AI/ML topics.
 
 profile:
     name: Yim Register
@@ -18,7 +20,7 @@ profile:
     image: register-profile.webp
     email: yreg@uw.edu
     website: https://yimregister.github.io/ 
-    scholar_id: 3iZm8V4AAAAJ
+    scholar_userid: 3iZm8V4AAAAJ
     address: >
 
 ---
