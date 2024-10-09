@@ -4,7 +4,7 @@ inline: false
 group: Doctoral Students
 group_rank: 1
 
-title: Kayla Duskin
+title: 
 description: 
 lastname: Duskin
 
@@ -17,7 +17,7 @@ profile:
     image: duskin-profile.jpg
     role: Doctoral Candidate
     email: kduskin@uw.edu
-    linkedin: https://www.linkedin.com/in/kayla-duskin/
+    linkedin: kayla-duskin
     website: https://ischool.uw.edu/people/phd/profile/kduskin
     address: >
         Information School<br />
