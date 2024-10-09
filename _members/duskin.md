@@ -16,7 +16,7 @@ profile:
     name: Kayla Duskin
     align: right
     image: duskin-profile.jpg
-    role: Doctoral Candidate
+    position: Doctoral Candidate, Information School
     email: kduskin@uw.edu
     linkedin: kayla-duskin
     website: https://ischool.uw.edu/people/phd/profile/kduskin
