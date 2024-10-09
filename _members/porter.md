@@ -1,7 +1,7 @@
 ---
 layout: profiles
-inline: false
-group: Doctoral Students
+inline: true
+group: doctoral students
 group_rank: 1
 
 title: Emily Porter
@@ -21,6 +21,8 @@ profile:
     linkedin: 
     orcid: 
     address: >
+        Information School</br>
+        University of Washington, Seattle, WA 98195
 
 ---
 
