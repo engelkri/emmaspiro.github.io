@@ -21,7 +21,8 @@ profile:
     linkedin: 
     orcid: 
     address: >
-
+        Information School<br />
+        University of Washington, Seattle WA 98195
 ---
 
 
