@@ -16,10 +16,9 @@ profile:
     position: Doctoral Candidate. Information School, University of Washington.
     align: right
     image: avatar.png
-    email: 
-    twitter: 
-    linkedin: 
-    orcid: 
+    email: igrasso@uw.edu
+    orcid: 0000-0002-4829-3776
+    scholar_userid: YC0X7NIAAAAJ
     address: >
         Information School<br />
         University of Washington, Seattle WA 98195
