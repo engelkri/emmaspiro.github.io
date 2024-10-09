@@ -3,7 +3,6 @@ layout: profiles
 inline: true
 group: postdoctoral researchers
 group_rank: 2
-team_frontpage: true
 
 title:
 description: 
@@ -22,7 +21,8 @@ profile:
     image: xu-profile.jpg
     position: Postdoctoral Scholar, Center for an Informed Public.
     email: yiweixu@uw.edu
-    website: https://www.yiweixu.net 
+    website: https://www.yiweixu.net
+    scholar_userid: gwQjMYYAAAAJ
     address: >
       Information School, University of Washington, Seattle WA 98195
    
