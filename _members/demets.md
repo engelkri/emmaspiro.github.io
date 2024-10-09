@@ -13,7 +13,7 @@ teaser: >
 
 profile:
     name: Sydney DeMets
-    position: Doctoral Candidate. Information School, University of Washington.
+    position: Doctoral Candidate. Information School.
     align: right
     image: avatar.png
     email: sdemets@uw.edu
