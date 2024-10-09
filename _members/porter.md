@@ -15,7 +15,7 @@ profile:
     name: Emily Porter
     position: Doctoral Candidate. Information School, University of Washington.
     align: right
-    image: avatar.png
+    image: porter-profile.jpg
     email: 
     twitter: 
     linkedin: 
