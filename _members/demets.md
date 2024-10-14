@@ -19,6 +19,7 @@ profile:
     email: sdemets@uw.edu
     linkedin: sydney-demets-319759276
     scholar_userid: 25P_rcUAAAAJ 
+    website: https://ischool.uw.edu/people/phd/profile/sdemets
     address: >
         Information School<br />
         University of Washington, Seattle WA 98195
