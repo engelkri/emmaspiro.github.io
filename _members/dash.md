@@ -18,6 +18,7 @@ profile:
     image: dash-profile.jpg
     email: salonidash77@gmail.com
     linkedin: saloni-dash-363431104
+    website: https://salonidash.com/
     scholar_userid: 5-Fyc8MAAAAJ # your Google Scholar ID
     github: SaloniDash7
     address: >
