@@ -17,6 +17,7 @@ profile:
     align: right
     image: porter-profile.jpg
     email: eeporter@uw.edu
+    website: https://ischool.uw.edu/people/phd/profile/eeporter
     twitter: 
     linkedin: 
     orcid: 
