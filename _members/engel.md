@@ -11,7 +11,7 @@ teaser: >
 profile:
     name: Kristen Engel
     align: right
-    image: avatar.png
+    image: ke-bw.png
     position: Doctoral Candidate, Information School.
     email: engelkri@uw.edu
     website: http://kristenengel.com/
