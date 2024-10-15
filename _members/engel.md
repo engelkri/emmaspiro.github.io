@@ -13,8 +13,8 @@ profile:
     align: right
     image: avatar.png
     position: Doctoral Candidate, Information School.
-    email: 
-    linkedin: 
+    email: engelkri@uw.edu
+    website: http://kristenengel.com/
     address: >
         Information School<br />
         University of Washington, Seattle WA 98195
