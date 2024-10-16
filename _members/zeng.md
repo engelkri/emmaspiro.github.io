@@ -18,7 +18,7 @@ profile:
     name: Dr. Li Zeng
     position: Assistant Professor. TS Social and Behavioral Sciences, Methodology and Statistics @ Tilburg University
     align: right
-    image: zeng.jpg
+    image: zeng.webp
     email: L.Zeng@tilburguniversity.edu
     website: https://research.tilburguniversity.edu/en/persons/li-zeng#
     linkedin: 
