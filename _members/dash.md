@@ -9,7 +9,7 @@ description:
 lastname: Dash
 
 teaser: > 
-    My research interests primarily lie in Misinformation and AI. I am interested in understanding and modeling the       threats of geenrative models for disinformation operations. I am also interested in leveraging geenrative models for detecting and explaining misinformation and manipulation tactics.
+    My research interests primarily lie in Misinformation and AI. I am interested in understanding and modeling the threats of generative models for disinformation operations. I am also interested in leveraging geenrative models for detecting and explaining misinformation and manipulation tactics.
 
 profile:
     name: Saloni Dash
