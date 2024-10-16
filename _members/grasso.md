@@ -4,6 +4,11 @@ inline: true
 group: doctoral students
 group_rank: 1
 
+title: 
+description: 
+lastname: Grasso
+
+
 teaser: >
     Izzi Grasso (they/them) is a fourth year PhD candidate in the iSchool whose work sits at the intersection of information studies and feminist research. They are interested in the experiences of survivors of gender based violence as a result of pervasive online discourse surrounding high profile abuse cases. Izzi conducts survivor facing research and is passionate about developing feminist ethics of care and methods in this space.
 
