@@ -14,7 +14,7 @@ teaser: >
     When we create technology with compassion, we create a better world for everyone. Dr. Register has worked with RStudio, Code.org, MD4SG, and the Center for an Informed Public. They also do visiting talks and workshops, such as The Future of AI Can Be Kind or Mental Health, Social Media, and Empowerment. They often create educational resources and guest lecture on AI/ML topics.
 
 profile:
-    name: Yim Register
+    name: Dr. Yim Register
     position: 
     align: right
     image: register-profile.webp
