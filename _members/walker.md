@@ -13,7 +13,7 @@ teaser: >
 
 profile:
     name: Dr. Shawn Walker
-    position: Assistant Professor. Critical Data Studies, School of Social & Behavioral Sciences @ ASU
+    position: Assistant Professor. Critical Data Studies, School of Social & Behavioral Sciences @ ASU.
     align: right
     image: walker.jpg
     email: shawn.w@asu.edu
