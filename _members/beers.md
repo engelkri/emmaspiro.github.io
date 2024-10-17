@@ -1,7 +1,7 @@
 ---
 layout: profiles
 inline: true
-group: alumni
+group: alumni: doctoral students
 group_rank: 4
 
 title: 
