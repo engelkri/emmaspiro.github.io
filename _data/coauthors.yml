@@ -6,6 +6,10 @@
   - firstname: ["Anna", "A.", "A", "Andrew"]
     url: https://annabeers.github.io/professional/
 
+"dash":
+  - firstname: ["Saloni", "S.","S"]
+    url: https://salonidash.com/
+    
 "demets":
   - firstname: ["Sydney", "S.", "S"]
     url: https://scholar.google.com/citations?user=25P_rcUAAAAJ&hl=en
@@ -18,18 +22,18 @@
   - firstname: ["Izzi", "I.","I"]
     url: https://scholar.google.com/citations?user=YC0X7NIAAAAJ&hl=en
     
+"ian":
+  - firstname: ["Ian", "I.","I"]
+     url: https://www.ian-kennedy.com/
+     
+"register":
+  - firstname: ["Yim", "Y.","Y"]
+    url: https://yimregister.github.io/
+       
 "schafer":
   - firstname: ["Joseph", "J.", "J", "Joseph S"]
     url: https://students.washington.edu/schaferj/
 
-"dash":
-  - firstname: ["Saloni", "S.","S"]
-    url: https://salonidash.com/
-    
-"register":
-  - firstname: ["Yim", "Y.","Y"]
-    url: https://yimregister.github.io/
-    
 "starbird":
   - firstname: ["Kate", "K.","K"]
     url: https://faculty.washington.edu/kstarbi/
@@ -37,3 +41,12 @@
 "west":
   - firstname: ["Jevin", "J.", "J", "Jevin D"]
     url: https://www.jevinwest.org/
+    
+"zeng":
+  - firstname: ["Li", "L.", "L"]
+    url: https://scholar.google.com/citations?user=QZKDBdkAAAAJ&hl=en
+  
+"zhou":
+  - firstname: ["Kaitlyn", "K.","K"]
+    url: https://cs.stanford.edu/~katezhou/
+    
